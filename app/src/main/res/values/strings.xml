@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Context_management_app</string>
+    <string name="lightonoff">light on/off</string>
+    <string name="ringonoff">ringer on/off</string>
+    <string name="image_content_description"> </string>
+    <string name="noise">Noise level</string>
+    <string name="light">Light level</string>
+    <string name="ok">Check</string>
+    <string name="enter_room">Enter room #</string>
+    <string name="lightLevel">0</string>
+    <string name="noiseLevel">0</string>
+    <string name="enter_level">Enter Level</string>
+
+</resources>
